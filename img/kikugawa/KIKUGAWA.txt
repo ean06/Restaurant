@@ -1,0 +1,61 @@
+kikugawa 
+
+-deskripsi: Kafe Jepang yang sudah lama berdiri menyajikan hidangan klasik di tempat kuno dengan sentuhan dekorasi Asia.
+ 
+-alamat: Jl. Cikini IV No.13, RT.15/RW.5, Cikini, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10330
+
+-media social: Instagram : @kikugawa  Delivery : (021) 3150668 Jam: Buka 11.30 ⋅ Tutup pukul 21.30
+------------------------------------------
+Menu
+
+SATU
+-nama : ume set
+-deskripsi: sushi,sashimi,tempura,sukiyaki,yakitori in one
+-harga: 114k
+
+DUA
+-nama: kiku set
+-deskripsi: sushi,tempura,sukiyaki all in one
+-harga: 88k
+
+TIGA
+-nama: salmon sashimi yakitori set
+-deskripsi: salmon,rice and soup all in one
+-harga: 104k
+
+EMPAT
+-nama: kikugawa set a
+-deskripsi: sushi,rice,tempura all in one
+-harga: 79k
+
+LIMA
+-nama: kikugawa set b
+-deskripsi: chicken teriyaki and beef teriyaki all in one
+-harga: 86k
+
+ENAM
+-nama: salmon mentai
+-deskripsi: filet salmon, Saus mentai, Real Mayonnaise
+-harga:48k 
+
+TUJUH
+-nama: ebi furai
+-deskripsi: Udang, Tepung Roti, Air, Telur, Tepung Terigu, Tepung Tapioka
+-harga: 37k
+
+DELAPAN
+-nama: fish roll
+-deskripsi:   Ikan, Air, tapioka, Garam, Isolat, Bawang putih
+-harga: 28k
+
+SEMBILAN
+-nama: chiken katsu teriyaki
+-deskripsi: dada ayam filet, merica, bawang putih, saus teriyaki
+-harga: 48k
+
+SEPULUH
+-nama: beef katsu teriyaki
+-deskripsi: daging sapi, telur, terigu, susu, tepung roti
+-harga: 55k
+
+===========================================================================================

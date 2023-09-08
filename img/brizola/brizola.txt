@@ -1,0 +1,61 @@
+BRIZOLA
+
+-deskripsi: Brizola adalah restoran Italia Asia perpaduan yang terletak di Jakarta Pusat. Memiliki galeri dan perasaan berseni tanpa sikap.
+ 
+-alamat:Jl. Tirtayasa Raya No.26, Melawai, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12160
+
+-media social: Instagram : @brizolabistro Delivery : 0823-1134-6505 Jam: Buka 07.00 ⋅ Tutup pukul 22.00
+------------------------------------------
+Menu
+
+SATU
+-nama : THE TOMAHAWK
+-deskripsi: 600-700gr Grainfed AUS Rib Eye seared w/ homemade seasoning
+-harga: 488k
+
+DUA
+-nama: AUS WAGYU RIB EYE 
+-deskripsi: 200gr AUS Wagyu MB3+ seared w/ homemade seasoning
+-harga: 288K
+
+TIGA
+-nama: AUS WAGYU SIRLOIN 
+-deskripsi: 200gr AUS Wagyu M83+ seared w/ homemade seasoning
+-harga: 258K
+
+EMPAT
+-nama: US RIB EYE
+-deskripsi: 200gr US Beef seared w/ homemade seasoning
+-harga: 188K
+
+LIMA
+-nama: STEAK PLATTER
+-deskripsi: 100gr of each Tenderloin, Sirloin, Rib Eye & 200gr Short Ribs
+-harga: 295K
+
+ENAM
+-nama: SPAGHETTI BOLOGNESE
+-deskripsi: Pasta w/ homemade sauce & Parmesan
+-harga: 98k
+
+TUJUH
+-nama: SPAGHETTI CARBONARA
+-deskripsi: Pasta w/ creamy sauce, Chicken & Parmesan
+-harga: 88k
+
+DELAPAN
+-nama: OH MY LASAGNA 
+-deskripsi: Lasagna w/ Bolognese, Smoked Beef & Cheese
+-harga: 78k
+
+SEMBILAN
+-nama: CISH N FIPS
+-deskripsi: Imported Dory Fish, Potato Wedges & Tartar Sauce
+-harga: 78k
+
+SEPULUH
+-nama: STEAMY FISHY
+-deskripsi:Steamed Dory w/Med terranean flavour, Olive Rice & Mini Salad
+-harga: 98k
+
+===========================================================================================

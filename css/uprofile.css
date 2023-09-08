@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.prof {
+    margin-top: 20px;
+}
+.container h1 {
+    font-family: 'Goudy Old Style';
+    color: #7E370C;
+    padding: 20px 20px;
+}
+.abc {
+    width: 300px;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.abc img {
+    width: 180px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border: 3px solid white;
+    margin-bottom: 20px;
+}
+.abc h3 {
+    border-bottom: 1px solid #000;
+    width: 250px;
+    margin-left: 25px;
+    padding-bottom: 10px;
+}
+.abc a {
+    text-decoration: none;
+    margin-top: 20px;
+    color: black;
+}
+.abc a:hover {
+    color: rgb(55, 90, 111);
+}
+
+.efg {
+    margin-left: 450px;
+    margin-top: -280px;
+    width: 350px;
+}
+.efg h2 {
+    font-family: tahoma;
+    color: rgb(83, 83, 148);
+}
+.efg h3 {
+    font-family: tahoma;
+    color: rgb(55, 90, 111);
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.efg p{
+    border-bottom: 1px solid #000;
+}
+
+.hij {
+    width: 300px;
+    margin-left: 870px;
+    margin-top: -215px;
+}
+.hij h2 {
+    font-family: tahoma;
+    color: rgb(83, 83, 148);
+}
+.hij h3 {
+    font-family: tahoma;
+    color: rgb(55, 90, 111);
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.hij p {
+    border-bottom: 1px solid #000;
+}

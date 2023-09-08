@@ -1,0 +1,61 @@
+ONIKUAE
+
+-deskripsi: Onikuae adalah restoran Jepang di Tangerang Tangerang,dengan Rp 100.000 / Orang konsumsi per kapita.
+ 
+-alamat: Jl. Titihan No.2, Parigi, Kec. Pd. Aren, Kota Tangerang Selatan, Banten 15227
+
+-media social: Instagram : @onikuae Delivery : 0811-9895-757 Jam: Buka 13.00 ⋅ Tutup pukul 22.00
+------------------------------------------
+Menu
+
+SATU
+-nama : Tenderloin steak 
+-deskripsi: Juga dikenal sebagai tenderloin atau eye fillet, potongan ini berasal dari dalam sirloin. Bersifat ramping dan lembut
+-harga: 85k
+
+DUA
+-nama: Rib eye steak
+-deskripsi: Rib-eye steak adalah potongan dalam bentuk steak, bisa dengan tulang (bone in) atau tanpa tulang (boneless)
+-harga: 85k
+
+TIGA
+-nama: Sirloin steak
+-deskripsi: steak sirloin dipotong dari sirloin, posterior subprimal ke pinggang pendek di mana steak T-bone, kedai bir, dan klub dipotong.
+-harga: 85k
+
+EMPAT
+-nama: Oyakodon
+-deskripsi: Oyakodon, secara harfiah berarti "donburi orang tua dan anak", adalah donburi, atau hidangan mangkuk nasi Jepang, di mana ayam, telur, irisan daun bawang, dan bahan lainnya direbus bersama dalam sejenis sup yang dibuat dengan kecap dan kecap. kaldu, lalu disajikan di atas semangkuk besar nasi. 
+-harga: 40k
+
+LIMA
+-nama: Gyūdon
+-deskripsi: Gyūdon, juga dikenal sebagai gyūmeshi, adalah hidangan Jepang yang terdiri dari semangkuk nasi di atasnya dengan daging sapi dan bawang yang direbus dengan saus manis ringan yang dibumbui dengan dashi, kecap, dan mirin. Kadang-kadang juga disajikan dengan topping seperti telur rebus mentah atau lunak, bawang Welsh, keju parut atau kimchi.
+-harga: 40k
+
+ENAM
+-nama: Teriyaki salmon don
+-deskripsi: Teriyaki Salmon Donburi adalah semangkuk nasi Jepang yang lezat dengan salmon lembut yang dibalut dengan saus teriyaki buatan sendiri.
+-harga: 75k
+
+TUJUH
+-nama: Chicken wings
+-deskripsi: bagian sayap ayam yang umumnya digoreng dan kemudian dilapisi atau dicelupkan ke dalam saus yang terdiri dari saus cabai rawit berbasis cuka dan mentega cair sebelum disajikan.
+-harga: 35k
+
+DELAPAN
+-nama: Okonomiyaki 
+-deskripsi: Okonomiyaki adalah hidangan panekuk gurih Jepang yang terdiri dari adonan tepung terigu dan bahan lainnya yang dimasak di atas teppan. Tambahan umum termasuk kubis, daging, dan makanan laut, dan topping termasuk saus okonomiyaki, aonori, katsuobushi, mayones Jepang, dan acar jahe.
+-harga: 35k
+
+SEMBILAN
+-nama: takoyaki
+-deskripsi: Takoyaki adalah kudapan khas Jepang berbentuk bola yang terbuat dari adonan berbahan dasar tepung terigu dan dimasak dalam wajan cetakan khusus. Biasanya diisi dengan gurita cincang atau potong dadu, sisa tempura, acar jahe, dan daun bawang.
+-harga: 35k
+
+SEPULUH
+-nama: Negima yakitori
+-deskripsi: Yakitori adalah tusuk sate ayam panggang Jepang yang sangat populer, umumnya disajikan di izakaya (mirip dengan bar), atau yakitori-ya. Negima Yakitori adalah sejenis yakitori yang dibuat dengan paha ayam dan daun bawang. Daun bawang memainkan peran penting, berfungsi sebagai tandingan yang cerah untuk ayam yang kaya umami
+-harga: 30k
+
+===========================================================================================

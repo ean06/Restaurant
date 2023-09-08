@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+.cocon {
+    width: 550px;
+    margin-left: auto;;
+    margin-right: auto;
+    margin-top: -0px;
+}
+input {
+    width: 550px;
+    border: none;
+    background-color: #EEBF78;
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.submit {
+    width: 100px;
+    margin-left: 450px;
+}

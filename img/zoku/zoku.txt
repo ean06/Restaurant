@@ -1,0 +1,61 @@
+ZOKU
+
+-deskripsi: Zoku adalah tempat yang cocok dan ideal untuk menikmati makanan dan minum anda hingga larut malam.
+ 
+-alamat: Pantai Indah Kapuk St, RGIJ 65/66, Kamal Muara, Kec. Penjaringan, Daerah Khusus Ibukota Jakarta 14470.
+
+-media social: Instagram : @zokujkt Delivery : 0821-8080-8811 Jam: Buka 11.00 ⋅ Tutup pukul 01.00
+------------------------------------------
+Menu
+
+SATU
+-nama : SALMON CRISPY SUSHI
+-deskripsi: Flavorful bites of smoky salmon aburi, Japanese egg salad and Japanese pickled kyuri on top of fried anchovy sushi rice
+-harga: 70k 
+
+DUA
+-nama: TUNA TATAKI
+-deskripsi: Tuna sashimi slices with zoku's style of tomato dabu- dabu salsa, aioli sambal, house-made chili oil and basil. Comes with squid ink crackers for a perfect balance
+-harga: 108k
+
+TIGA
+-nama: SALMON ABURI
+-deskripsi: Salmon sashimi slices with Zoku's style of tomato dabu- dabu salsa, aloll sambal, house-made chili oil and basil. Comes with squid ink crackers for a perfect balance
+-harga: 108k
+
+EMPAT
+-nama: SCALLOP COCONUT TATAKI
+-deskripsi: A delightful plate of U.S. scallops with kecombrang- marinated pineapple salad. Served in wasabi coconut dressing and topped with crispy curry leaves
+-harga: 110k
+
+LIMA
+-nama: TERIYAKI BEEF ABURI
+-deskripsi: Torched beef karubi and caramelized onion on top of cheesy potato croquette. Finished with smoked yolk jam and sprinkles of spring onion powder
+-harga: 125k
+
+ENAM
+-nama: CHICKEN KARAAGE 
+-deskripsi: Tender and juicy marinated chicken leg coated in charcoal batter, complimented with wasabi aloli dip and tobiko
+-harga: 70k
+
+TUJUH
+-nama: 
+-deskripsi: Tender and juicy brined pork collar coated in charcoal batter, tossed with white truffle oil and finished with wasabi aloli dip and tobiko
+-harga: 80k
+
+DELAPAN
+-nama: CHICKEN WINGS
+-deskripsi: All-time-classic marinated chicken wings, fried in sesame batter and comes with wasabi aioli dip
+-harga: 78k
+
+SEMBILAN
+-nama: CARNITAS GYOZA
+-deskripsi: Pan-fried dumplings filled with Mexican- styled minced pork. Paired with the perfect duo of salsa verde and chipotle aloli dips
+-harga: 78k
+
+SEPULUH
+-nama: CRISPY NOODLE SALAD
+-deskripsi: A refreshing combination of crispy noodle, Japanese kyuni, bean sprouts, pineapples, coriander and basil. Mixed with black sesame dressing and sprinkled with shredded poached chicken
+-harga: 68k
+
+===========================================================================================

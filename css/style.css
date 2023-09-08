@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-image: url(../img/bc.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.header {
+    margin-top: 20px;
+    text-align: center;
+    color: rgb(67, 40, 7);
+}
+.header h1 {
+    font-size: 50px;
+}
+.header h3{
+    font-size: 30px;
+}
+
+.container {
+    margin-top: 40px;
+}
+.satu {
+    margin-left: 50px;
+}
+.satu ul li {
+    display: inline-block;
+    margin-left: 130px;
+    background-color: rgb(221, 158, 10);
+    width: 400px;
+    height: 150px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    cursor: pointer;
+}
+.satu ul li a{
+    text-decoration: none;
+    color: black;
+}
+.satu ul li:hover {
+    background-color: rgb(255, 201, 53);
+}
+.dua {
+    margin-left: 50px;
+}
+.dua ul li{
+    display: inline-block;
+    margin-left: 130px;
+    background-color: rgb(221, 158, 10);
+    width: 400px;
+    margin-top: 60px;
+    height: 150px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    cursor: pointer;
+}
+.dua ul li a{
+    text-decoration: none;
+    color: black;
+}
+.dua ul li:hover {
+    background-color: rgb(255, 201, 53);
+}
+
+ion-icon {
+    font-size: 50px;
+    margin-left: 300px;
+    margin-top: -60px;
+}
+
+h2 {
+    margin-top: 60px;
+    padding-left: 30px;
+    font-family: tahoma; 
+}

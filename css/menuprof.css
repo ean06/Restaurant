@@ -1,0 +1,72 @@
+.menu {
+    margin-top: 250px;
+}
+.menu h1 {
+    text-align: center;
+}
+nav {
+    margin-top: 50px;
+    margin-left: 190px;
+}
+nav a:hover {
+    background-color: rgb(255, 193, 117);
+    color: #707070;
+}
+.total {
+    margin-top: 20px;
+    margin-left: 190px;
+    padding-bottom: 50px;
+}
+nav a {
+    text-decoration: none;
+    font-size: 25px;
+    padding: 10px 10px;
+    background-color: rgb(248, 146, 21);
+    color: #7E370C;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+table {
+    margin-top: 20px;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+thead th {
+    font-weight: bold;
+    font-size: 25px;
+    text-align: left;
+    padding-left: 15px;
+    color: rgb(23, 61, 95);
+}
+tbody td{
+    border-bottom: 1px solid #000;
+    padding: 20px 20px;
+    padding-bottom: 15px;
+    width: 9000px;
+}
+tbody td a {
+    margin-left: 30px;
+}
+tbody a {
+    text-decoration: none;
+    margin-left: 15px;
+    padding: 10px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    background-color: rgb(248, 146, 21);
+    color: #7E370C;
+    cursor: pointer;
+    font-weight: bold;
+}
+tbody a:hover {
+    background-color: rgb(255, 193, 117);
+    color: #707070;
+}

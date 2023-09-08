@@ -1,0 +1,61 @@
+al tahrir
+
+-deskripsi: Al Tahrir adalah restoran Vegetarian di Karet Kuningan Jakarta,dengan Rp 5.000 / Orang konsumsi per kapita. 
+ 
+-alamat: Lt. Ground Plaza Festival Jalan HR Rasuna Said Blok 0A2 No.22, RT.2/RW.5, Karet Kuningan, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12940
+
+-media social: Instagram : @altahrirrestaurant Delivery : (021) 5263187 Jam: Buka 24 jam
+------------------------------------------
+Menu
+
+SATU
+-nama : mixed vegetable soup
+-deskripsi: Milna, Bubur Bayi, WGAIN, Ayam, Wortel, Brokoli.
+-harga: 
+
+DUA
+-nama: oxtail soup
+-deskripsi: air, bawang putih, bawang merah, merica
+-harga: 
+
+TIGA
+-nama: kawara soup
+-deskripsi: 
+-harga: 
+
+EMPAT
+-nama: arabic coffee
+-deskripsi:  kopi digiling, kapulaga, air
+-harga: 
+
+LIMA
+-nama: turkish coffee
+-deskripsi: kopi digiling, kapulaga, air
+-harga: 
+
+ENAM
+-nama: moroccan tea
+-deskripsi: green tea, daun mint, kemangi, gula pasir 
+-harga: 
+
+TUJUH
+-nama: cappuccino
+-deskripsi: espresso, steamed milk, foamed milk
+-harga: 
+
+DELAPAN
+-nama: karak tea
+-deskripsi: air, susu bubuk, jahe parut
+-harga: 
+
+SEMBILAN
+-nama: lemon tea
+-deskripsi: Teh hitam, Gula pasir, sirup gula
+-harga: 
+
+SEPULUH
+-nama: shahlab
+-deskripsi: Susu bubuk, Kelapa Kering, Beras Putih, Tepung Jagung, Vanilla
+-harga: 
+
+===========================================================================================

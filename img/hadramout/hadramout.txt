@@ -1,0 +1,61 @@
+hadramout restaurant
+
+-deskripsi: hadramout adalah Hidangan dari Timur Tengah, seperti saus hingga kebab, disajikan di bungkusan penuh warna dengan stan makan pribadi.
+ 
+-alamat: Jl. Tambak No.16A, Pegangsaan, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10320
+
+-media social: Instagram : @hadramoutresto Delivery : 0858-9577-7777 Jam: Buka 10.00 ⋅ Tutup pukul 22.00
+------------------------------------------
+Menu
+
+SATU
+-nama : Hummus
+-deskripsi: Blended chickpeas (served with bread)
+-harga: 48k
+
+DUA
+-nama: Baba Ghanoush
+-deskripsi: Eggplant blended with Tohiol (served with bread)
+-harga: 57k
+
+TIGA
+-nama: Tabbouleh
+-deskripsi: A mixture of Chopped porsley, crocked wheat,tomatoes, and onions
+-harga: 36k
+
+EMPAT
+-nama: Fattoush
+-deskripsi: A midure of Tomatoes, cucumber, onions and pita chips
+-harga: 32k
+
+LIMA
+-nama: House Salad
+-deskripsi: A mixture of crisp romoina lettuce, tomatoes, onions and cucumbers with homemade dressing
+-harga: 56k
+
+ENAM
+-nama: Sambusa
+-deskripsi: Your choice of meat, veggie ce cheese
+-harga: 20k
+
+TUJUH
+-nama: Yogurt and Cucumber
+-deskripsi: (served with bread)
+-harga: 38k
+
+DELAPAN
+-nama: fasolia
+-deskripsi: mashed white beans wiht onions, garic and tomatoes
+-harga: 40k
+
+SEMBILAN
+-nama: Fol
+-deskripsi: Mashed fava beans with onions, garlic and tomatoes
+-harga: 59k
+
+SEPULUH
+-nama: French Fries Falafel (4 pleces)
+-deskripsi: Chickpeas and chopped vegetables, fried in oil
+-harga: 29k 
+
+===========================================================================================

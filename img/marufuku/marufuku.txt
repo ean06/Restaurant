@@ -1,0 +1,61 @@
+marufuku 
+
+-deskripsi: Restoran simpel yang menawarkan hidangan Jepang, seperti mi kuah, sushi, dan sake.
+ 
+-alamat: Jalan Melawai 6 No.11, Blok M, Kebayoran Baru, RT.3/RW.1, Melawai, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12160.
+
+-media social: Instagram : @zokujkt Delivery : (021) 7267777 Jam: Buka 11.30 ⋅ Tutup pukul 22.00
+------------------------------------------
+Menu
+
+SATU
+-nama : tofu steak
+-deskripsi: Steak Tahu Gaya Jepang vegan ini terinspirasi oleh teppanyaki yang dibumbui dengan saus mirin, kecap asin, dan saus tiram vegetarian.
+-harga: 55k
+
+DUA
+-nama: wagyu teriyaki
+-deskripsi: Daging wagyu yang di marinasi bumbu teriyaki yang membuat rasa makin kuat 
+-harga: 290k
+
+TIGA
+-nama: hotate butter yaki
+-deskripsi: Digoreng dengan sempurna, Kerang Kecap Mentega ini menjadi hidangan pembuka paling lezat untuk pesta yang terinspirasi dari Jepang!
+-harga: 120k
+
+EMPAT
+-nama: saba syioki
+-deskripsi: Ikan kembung biru, juga disebut ikan kembung Jepang, ikan kembung Pasifik, ikan kembung berlendir atau ikan kembung berbintik, adalah ikan dari keluarga Scombridae, ditemukan di perairan tropis dan subtropis di Pasifik.
+-harga: 75k
+
+LIMA
+-nama: salmon alvocado roll 
+-deskripsi: campuran salmon dengan alvocado yang lezat
+-harga: 88k
+
+ENAM
+-nama: thai iced tea
+-deskripsi: black tea, bunga lawang, biji kapulaga, gula, krim kental manis, susu evaporasi, Daun mint
+-harga: 18k
+
+TUJUH
+-nama: ice green tea
+-deskripsi:  Air, gula, gula batu, daun teh hijau, teh melati, antioksidan vitamin C, perisa identik alami teh melati.
+-harga: 18k
+
+DELAPAN
+-nama: azuki tea
+-deskripsi:  Adzuki Small Red Bean Tea 30 Tea Bags
+-harga: 28k
+
+SEMBILAN
+-nama: hot coffee
+-deskripsi:  (espresso, susu steamed, froth susu)
+-harga: 25k
+
+SEPULUH
+-nama: coffee shake
+-deskripsi: Air, Gula, Susu Skim, Krimer Nabati, Kopi Bubuk Instan (0.9%), Penstabil Nabati
+-harga: 
+
+===========================================================================================

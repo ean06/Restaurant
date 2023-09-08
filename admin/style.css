@@ -1,0 +1,16 @@
+a {
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    color: grey;
+}
+a button {
+    margin-top: 20px;
+}
+
+@media print {
+    a button{
+        display: none;
+    }
+}

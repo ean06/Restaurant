@@ -1,0 +1,370 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html {
+    scroll-behavior: smooth;
+}
+body {
+    background-color: #EEBF78;
+}
+
+header {
+    width: 100%;
+    height: 50px;
+    background-color: #FD841F;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+header h1 {
+    padding-top: 5px;
+    font-family: tahoma;
+}
+.prof ul li {
+    display: inline-block;
+    cursor: pointer;
+}
+.prof p ion-icon {
+    font-size: 40px;
+    margin-left: 100px;
+    margin-top: -60px;
+    padding: 5px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    background-color: lightgrey;
+}
+.prof {
+    margin-left: 1000px;
+    margin-top: -25px;
+}
+.uy {
+    margin-left: -90px;
+}
+
+.conn {
+    width: 96%;
+    height: 70vh;
+    position: relative;
+    margin-top: 100px;
+    margin-left: 25px;
+    
+}
+.conn img {
+    width: 100%;
+    height: 70vh;
+    
+}
+.tutu {
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.teks {
+    width: 470px;
+    padding-left: 100px;
+    padding-top: 110px;
+}
+.teks h2 {
+    font-family: 'Goudy Old Style';
+    font-style: normal;
+    font-size: 65px;
+    color: #7E370C;
+}
+.teks .tes {
+    color: #707070;
+    margin-left: 170px;
+    margin-top: -77px;
+}
+.teks p {
+    font-family: 'Goudy Old Style';
+    font-style: normal;
+    font-size: 20px;
+}
+.gambar {
+    width: 450px;
+    margin-left: 780px;
+    margin-top: -320px;
+}
+.gambar img {
+    width: 380px;
+}
+
+.klik {
+    margin-left: 100px;
+}
+
+.klik button {
+    width: 110px;
+    height: 40px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    background-color: rgb(248, 146, 21);
+    cursor: pointer;
+    color: #7E370C;
+}
+
+.klik button:hover {
+    background-color: rgb(255, 193, 117);
+    color: #707070;
+}
+
+#satu {
+    width: 1000px;
+    padding-bottom: 50px;
+    margin-left: 90px;
+    padding-top: 50px;
+    background-color: rgb(252, 178, 80);
+    margin-top: 30px;
+    padding-right: 50px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    
+}
+#satu ul li {
+    list-style-type: none;
+    display: inline-block;
+}
+#satu h1 {
+    color: white;
+    font-family: tahoma;
+    margin-left: 50px;
+    padding-bottom: 30px;
+}
+
+.one {
+    width: 280px;
+    background-color: rgb(253, 148, 36);
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    padding-bottom: 20px;
+    margin-left: 50px;
+}
+.one img {
+    width: 260px;
+    height: 200px;
+    padding: 10px 10px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.one h3 {
+    font-family: tahoma;
+    color: #707070;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.one p {
+    padding-left: 10px;
+    font-family: tahoma;
+    color: #876445;
+}
+.one button {
+    margin-left: 10px;
+    margin-top: 15px;
+    width: 260px;
+    height: 35px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    cursor: pointer;
+    background-color: #413F42;
+    color: #fff;
+}
+.one button:hover {
+    background-color: rgb(187, 185, 185);
+    color: black;
+}
+
+#dua {
+    width: 1000px;
+    padding-bottom: 50px;
+    margin-left: 90px;
+    padding-top: 30px;
+}
+#dua h2 {
+    font-family: 'NSimSun';
+    color: #7E370C;
+    margin-left: 50px;
+    padding-bottom: 30px;
+    font-size: 35px;
+}
+#dua ul li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+#tiga {
+    width: 1000px;
+    padding-bottom: 50px;
+    margin-left: 90px;
+    padding-top: 30px;
+}
+#tiga h2 {
+    font-family: 'NSimSun';
+    color: #7E370C;
+    margin-left: 50px;
+    padding-bottom: 30px;
+    font-size: 35px;
+}
+#tiga ul li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+#empat {
+    width: 1000px;
+    padding-bottom: 50px;
+    margin-left: 90px;
+    padding-top: 30px;
+}
+#empat h2 {
+    font-family: 'NSimSun';
+    color: #7E370C;
+    margin-left: 50px;
+    padding-bottom: 30px;
+    font-size: 35px;
+}
+#empat ul li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+#lima {
+    width: 1000px;
+    padding-bottom: 50px;
+    margin-left: 90px;
+    padding-top: 30px;
+}
+#lima h2 {
+    font-family: 'NSimSun';
+    color: #7E370C;
+    margin-left: 50px;
+    padding-bottom: 30px;
+    font-size: 35px;
+}
+#lima ul li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+.footer {
+    background-color: #F2B354;
+    width: 100%;
+    margin-left: -25px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+    margin-top: 100px;
+}
+.footer ul li {
+    list-style-type: none;
+    padding-top: 20px;
+}
+.footer ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+.footer .oone h1 {
+    color: #876445;
+    text-align: center;
+}
+.footer h2 {
+    color:  #707070;
+}
+.footer .first {
+    margin-left: 730px;
+    padding-top: 70px;
+}
+.footer .first ul li a:hover {
+    color: #7E370C;
+}
+
+.footer .seccond {
+    margin-left: 980px;
+    margin-top: -215px;
+    padding-bottom: 100px;
+}
+.footer .seccond ion-icon {
+    font-size: 30px;
+}
+.footer .seccond ion-icon:hover {
+    color: #7E370C;
+}
+.tul li {
+    margin-top: 15px;
+    color: #fff;
+}
+.tul {
+    margin-top: -170px;
+    margin-left: 50px;
+}
+
+.oone {
+    width: 400px;
+    text-align: justify;
+    margin-left: 150px;
+    margin-top: -250px;
+    background-color: rgb(253, 176, 42);
+    padding: 30px 30px;
+    border-radius: 20px;
+    -webkit-border-radius: 20p;
+    -moz-border-radius: 20p;
+    -ms-border-radius: 20p;
+    -o-border-radius: 20p;
+}
+.oone p {
+    padding-top: 10px;
+    color: #fff;
+}
+.akhir {
+    margin-top: 100px;
+    text-align: center;
+    width: 850px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #4b4b4b;
+}
+
+.down {
+    display: none;
+}
+.down a ion-icon {
+    font-size: 15px;
+    padding-top: 5px;
+}
+.oi {
+    margin-top: -5px;
+}
+.down li a {
+    text-decoration: none;
+    color: black;
+}
+.down li a:hover {
+    color: rgb(135, 135, 135);
+}
+.prof ul li:hover .down{
+    display: block;
+    background-color: #FD841F;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}

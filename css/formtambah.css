@@ -1,0 +1,57 @@
+h1 {
+    font-family: 'Goudy Old Style';
+    padding: 20px 20px;
+    color: #7E370C;
+}
+.onne {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -20px;
+}
+
+.onne input, textarea{
+    border: none;
+    padding: 5px 5px;
+    margin-top: 10px;
+    background-color: #EEBF78;
+    width: 300px;
+}
+.onne hr {
+    width: 400px;
+    margin-bottom: 10px;
+}
+
+.submit {
+    margin-left: 1000px;
+    padding: 10px 10px;
+    
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    background-color: rgb(248, 146, 21);
+    color: #7E370C;
+    cursor: pointer;
+}
+.submit:hover {
+    background-color: rgb(255, 193, 117);
+    color: #707070;
+}
+img {
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    width: 100px;
+    margin-left: 1100px;
+    margin-top: -25px;
+}
+.tutu {
+    margin-left: -140px;
+}
+form {
+    padding-bottom: 30px;
+}

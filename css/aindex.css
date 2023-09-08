@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-image: url(../img/bc.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.header {
+    text-align: center;
+    margin-top: 30px;
+}
+.header h1 {
+    font-size: 50px;
+    color: rgb(67, 40, 7);
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -40px;
+}
+
+a {
+    text-decoration: none;
+}
+a .ikon {
+    color: black;
+    font-size: 100px;
+    padding: 80px;
+    background-color: rgb(221, 158, 10);
+    margin-left: 35px;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
+
+a .ikon:hover {
+    background-color: rgb(255, 201, 53);
+}
+
+.konten1 {
+    margin-left: 26px;
+    margin-top: 120px;
+}
+
+.konten2 ul li {
+    list-style-type: none;
+    display: inline-block;
+    margin-left: 110px;
+    font-family: tahoma;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgb(67, 40, 7);
+}
+
+.resto {
+    padding-left: 25px;
+}
+.driver {
+    padding-left: 60px;
+}
+
+.rp {
+    text-align: center;
+    padding-left: 20px;
+}
+
+.back {
+    margin-left: 1160px;
+    margin-top: 30px;
+}
+
+
+.back a{
+    text-decoration: none;
+    padding: 10px 10px;
+    background-color: rgb(221, 158, 10);
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.back ion-icon {
+    margin-top: 20px;
+}
+.back a:hover {
+    background-color: rgb(142, 90, 0);
+    color: white;
+}
